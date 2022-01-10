@@ -1,0 +1,3 @@
+#define MAGIC_NUMBER 'O'
+
+#define GETSTATS _IOR(MAGIC_NUMBER,3,int)
