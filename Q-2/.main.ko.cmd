@@ -1,0 +1,1 @@
+cmd_/home/pi/LDD-010/Ques-1/Q-2/main.ko := ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/pi/LDD-010/Ques-1/Q-2/main.ko /home/pi/LDD-010/Ques-1/Q-2/main.o /home/pi/LDD-010/Ques-1/Q-2/main.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/pi/LDD-010/Ques-1/Q-2/Module.symvers := sed 's/ko$$/o/' /home/pi/LDD-010/Ques-1/Q-2/modules.order | scripts/mod/modpost -m -a   -o /home/pi/LDD-010/Ques-1/Q-2/Module.symvers -e -i Module.symvers   -T -
